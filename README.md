@@ -1,31 +1,22 @@
-### Hi there 👋,  I am mehedi hasan 
-#### flutter developer
-![flutter developer](https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/297190100_131118939625154_7144879788555033420_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=UstubCRVk08AX92YpVa&_nc_ht=scontent.fdac142-1.fna&oh=00_AT_vtlaImt7KINbhsb9VoJcZM14LAOhXCx8TqRn0DTrxKg&oe=62EE9AF1)
+### Hi there 👋, I'm Mehedi 
+#### Flutter dev......
+![Flutter dev......](https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/286909144_109901535080228_1242075948829632550_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=19026a&_nc_ohc=KdF4w1nffI4AX-KiOUG&_nc_ht=scontent.fdac142-1.fna&oh=00_AT_g3NsEhiqj3D23P-E0CYY_IIxhONRrupZ8uRHCDnT8Sw&oe=62EE25EB)
 
 I am a Flutter developer. My educational background possesses a bachelor's degree in Computer Science.
 
-Skills: Dart programing   Flutter   UI/UX   OOP=Object-oriented programming  OOD =Object-oriented design  Programming LanguageC   Programming LanguageJAVA  mobile app localization & internationalization tools and processes  REST, web sockets, GraphQL, JSON, XML)  MVVM,VIPER or MVP  Mobile databases: CoreData, SQLLite, Firebase, Realm, NoSQL ,RDBMS ,Database Design  & Implementation etc.  Github,gitBash ,GIT, pull requests, branching, BitBucket,SVN, JIRA  Agile development (Scrum, Kanban)  GoF patterns  Fix bugs  Flutter background services  GraphQL 
+Skills: Dart programming/flutter-SDK/ programing C/ github,gitBash /GIT/pull requests/itBucket/SVN/JIRA	 UI/UX ,  mobile databases: CoreData, SQLLite, Firebase, NoSQL ,RDBMS  Design & Implementation etc. OOP=Object-oriented programming		 (OOD) =Object-oriented design ,CI/CD Third Party Libraries & Tools &APIs.	 MVVM,VIPER or MVP REST, web sockets, GraphQL, JSON, XML)		 mobile app localization & internationalization tools and processes		 Agile development practices (Scrum,) BLoC pattern,Android Keyboard API		SQL database My,SQL DATABASE,Test Driven Development,Learn Animation and Custom Painter 	Shared Preferences & SQFLite,GoF patterns,problem-solving skills,Bluetooth Low Energy,GraphQL, HTTP API andSoftware Architecture & Design,	code refactoring (dart,flutter,C),Fix bugs,Cloud-native / managed services flutter,Flutter background services	 Connect,Google Play Console , Algorithms and Data Structures,Graph Algorithms and Data Structures,problem-solving skills, 			 software Quality,software development paradigm, system analysis and design principles, Cryptography and Network security.
 
-- 🔭 I’m currently working on Global brand pvt. ltd. 
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about flutter developer 
+- 🔭 I’m currently working on brotecs technologies limited 
+- 🌱 I’m currently learning Mastery of Flutter  
+- 👯 I’m looking to collaborate on Github 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dartmehedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mehedi Hasan Tahosan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mehedi Hasan Tahosan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mehedi hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/watch?v=szogq5Kr8nI)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dartmehedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jater.dulavai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/watch?v=szogq5Kr8nI&t=84s)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dartmehedi)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dartmehedi)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dartmehedi)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dartmehedi)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dartmehedi&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dartmehedi)  
-
-![GitHub metrics](https://metrics.lecoq.io/dartmehedi)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dartmehedi)  
-
-![Profile views](https://gpvc.arturio.dev/dartmehedi)  
+![Profile views](https://gpvc.arturio.dev/Dartmehedi)  
